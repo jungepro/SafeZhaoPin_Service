@@ -1,0 +1,15 @@
+后台：
+http://localhost:8080/springbootjlvpC/admin/dist/index.html#/login
+
+前台：
+http://localhost:8080/springbootjlvpC/front/index.html
+
+
+管理员：
+admin   admin
+
+企业：
+tengxun   123
+用户：
+lisi      lisi
+
